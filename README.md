@@ -21,3 +21,5 @@ Specifically for the DREAM networks:
 You may want to install the lemon library:
 
 https://lemon.cs.elte.hu/trac/lemon
+
+Makefile should work on Linux once lemon is installed. Edit LEMON_HOME as necessary.
