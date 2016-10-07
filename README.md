@@ -16,3 +16,8 @@ Specifically for the DREAM networks:
 
 
 (ingnores direction of signaling network)
+
+
+You may want to install the lemon library:
+
+https://lemon.cs.elte.hu/trac/lemon
